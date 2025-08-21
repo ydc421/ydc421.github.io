@@ -27,6 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello, my name is Jaebin (Denny) Cheong. I am a masters student, specializing in Data Science in the Department of Statistics and Data Science, at Yonsei University. I am currently attending my first semester and I originally created this github to detail my journey as a graduate student! 
+Hello, my name is Jaebin (Denny) Cheong. I am a masters student, specializing in Data Science in the Department of Statistics and Data Science, at Yonsei University. I am currently attending my first semester and I originally created this github to detail my journey as a graduate student!
 
 This is only just the beginning!
