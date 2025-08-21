@@ -20,7 +20,7 @@ icon: /assets/img/1.jpg # the emoji used as the favicon (alternatively, provide 
 
 url: https://ydc421.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
-last_updated: true  # set to true if you want to display last updated in the footer
+last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
 
@@ -87,7 +87,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Jaebin Cheong # blog_name will be displayed in your blog page
-blog_description: Just some posts about my life, my work, and just stuff I'm interested in! Hope you guys enjoy the stuff I post. 
+blog_description: Just some posts about my life, my work, and just stuff I'm interested in! Hope you guys enjoy the stuff I post.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
