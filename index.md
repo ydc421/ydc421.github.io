@@ -9,6 +9,6 @@ permalink: /home/
 <div class="post">
   <article>
     <h1>Welcome to my personal site!</h1>
-    <p>This is a placeholder for the home page. You can add your content here.</p>
+    <p>This is a placeholder for the home page. You can add your content here.</p> 
   </article>
 </div>
