@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Denny Cheong # the website title (if blank, full name will be used instead)
 first_name: Jaebin
 middle_name: (Denny)
 last_name: Cheong
@@ -86,7 +86,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Jaebin Cheong # blog_name will be displayed in your blog page
+blog_name: Denny Cheong # blog_name will be displayed in your blog page
 blog_description: Just some posts about my life, my work, and just stuff I'm interested in! Hope you guys enjoy the stuff I post.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts

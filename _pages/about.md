@@ -29,4 +29,8 @@ latest_posts:
 
 Hello, my name is Jaebin (Denny) Cheong. I am a masters student, specializing in Data Science in the Department of Statistics and Data Science, at Yonsei University. I am currently attending my first semester and I originally created this github to detail my journey as a graduate student!
 
-This is only just the beginning!
+I'm currently interested in the field of representational learning, particularly self-supervised learning. I'm also interested in causal representation learning, unlearning, and efficient ML.
+
+### More about Me:
+
+I was born in Seoul, South Korea, but at the age of 5, I moved to Auburn, AL, USA due to my dad's occupation. After spending 5 years in the States and getting to immerse in American culture, my dad's job
