@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /about/
-subtitle: <a href='https://ml.yonsei.ac.kr/'>Member of ML Yonsei</a>.
+subtitle: <a href='https://ml.yonsei.ac.kr/'>Member of Machine Learning Lab @ Yonsei</a>.
 
 profile:
   align: right
