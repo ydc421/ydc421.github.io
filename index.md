@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Home"
-permalink: /home/
+permalink: /
 ---
 
 <p>Here's a nice serene picture for you all!</p>
