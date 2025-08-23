@@ -33,4 +33,10 @@ I'm currently interested in the field of **representational learning**, particul
 
 ### More about Me:
 
-I was born in Seoul, South Korea, but due to my dad's occupation, I have had the opportunity to live in the US, Brazil and in Poland, which gave me the opportunity to immerse myself in those rich yet unique cultures. ## Update this later!
+I was born in Seoul, South Korea, but due to my dad's occupation, I have had the opportunity to live in the US, Brazil and in Poland, which gave me the opportunity to immerse myself in those rich yet unique cultures. As a result, I can speak 4 languages: English (Native), Korean (Professional), Portuguese (Conversational), and Spanish (Conversational).
+
+After graduating from the American School of Warsaw in 2019, I decided to come to Yonsei University to major in Applied Statistics. Having spent most of my time abroad, I always wanted to reconnect with my roots and know more about my heritage while studying an area that I enjoy, which heavily influenced my decision to come here.
+
+While studying at Yonsei University, I managed to ####
+
+## Update this later!
