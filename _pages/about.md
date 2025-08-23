@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /about/
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://ml.yonsei.ac.kr/'>Member of ML Yonsei</a>.
 
 profile:
   align: right
@@ -27,10 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello, my name is Jaebin (Denny) Cheong. I am a masters student, specializing in Data Science in the Department of Statistics and Data Science, at Yonsei University. I am currently attending my first semester and I originally created this github to detail my journey as a graduate student!
+Hello, my name is Jaebin (Denny) Cheong. I am a Masters student, specializing in Data Science in the Department of Statistics and Data Science, at Yonsei University. I am currently attending my first semester and I originally created this github to detail my journey as a graduate student!
 
-I'm currently interested in the field of representational learning, particularly self-supervised learning. I'm also interested in causal representation learning, unlearning, and efficient ML.
+I'm currently interested in the field of **representational learning**, particularly **self-supervised learning**. I'm also interested in **causal representation learning**, **unlearning**, and **efficient ML**. As AI and data science continue to expand, my interests do as well. Expect periodic updates as new research directions emerge.
 
 ### More about Me:
 
-I was born in Seoul, South Korea, but at the age of 5, I moved to Auburn, AL, USA due to my dad's occupation. After spending 5 years in the States and getting to immerse in American culture, my dad's job
+I was born in Seoul, South Korea, but due to my dad's occupation, I have had the opportunity to live in the US, Brazil and in Poland, which gave me the opportunity to immerse myself in those rich yet unique cultures. ## Update this later!
